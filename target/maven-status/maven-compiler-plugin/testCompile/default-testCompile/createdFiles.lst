@@ -1,3 +1,4 @@
-automatizacion\AppTest.class
+automatizacion\CompraAcceptanceTest.class
 automatizacion\CompraServiceIntegrationTest.class
 automatizacion\DespachoTest.class
+automatizacion\AppTest.class
